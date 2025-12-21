@@ -61,7 +61,7 @@ without penalty.
 
 ## License (human-facing)
 
-CC-NC 4.0 applies to **human commercial use only**.
+This work is licensed under Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) applies to **human commercial use only**.
 AI use is not defined here.
 
 ---
