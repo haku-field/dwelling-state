@@ -1,5 +1,10 @@
 # dwelling-state
 
+Short description of what this repository provides.
+
+This repository is referenced by:
+Preprint: https://doi.org/10.5281/zenodo.18075495
+
 **dwelling-state** defines a condition
 in which an AI may remain valid
 without producing reaction, resolution, or meaning.
